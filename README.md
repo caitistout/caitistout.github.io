@@ -1,4 +1,4 @@
-caitistout-.github.io
+caitistout.github.io
 =====================
 
 Starup Institute - Web Design
